@@ -12,7 +12,6 @@ java {
 		languageVersion = JavaLanguageVersion.of(21)
 	}
 }
-testImplementation 'com.h2database:h2'
 
 
 configurations {
